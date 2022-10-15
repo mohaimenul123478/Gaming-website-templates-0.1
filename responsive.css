@@ -200,11 +200,11 @@
     }
 
     .b_menu ul li a{
-       font-size:18px;
+       font-size:14px;
        margin-right:5px;
     }
 
-    .copyright{
+    .copyright h1{
         font-size:10px;
     }
   }
